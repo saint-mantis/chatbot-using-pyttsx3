@@ -1,0 +1,3 @@
+pip install PyPI-Browser
+pip install pyttsx3
+pip install datetime
